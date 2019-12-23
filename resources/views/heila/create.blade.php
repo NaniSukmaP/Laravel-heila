@@ -11,7 +11,7 @@
 </div>
 <body>
 <div class="container">
-<form action="/create" method="POST">
+<form action="/home" method="POST">
   <div class="form-row">
   <div class="form-group col-md-6">
       <label for="nama_depan">Nama Depan</label>

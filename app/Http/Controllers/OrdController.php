@@ -36,7 +36,7 @@ class OrdController extends Controller
     public function store(Request $request)
     {
         Order::create($this->validateRequest());
-        return redirect('create');
+        return redirect('home');
     }
 
     /**

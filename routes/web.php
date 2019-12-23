@@ -23,6 +23,6 @@
 Route::get('/home','HeilaController@home');
 Route::get('/product','HeilaController@product');
 Route::get('/contact','HeilaController@contact');
-Route::get('/order','HeilaController@order');
-Route::post('/order','OrdController@store');
+//Route::get('/order','HeilaController@order');
+Route::post('/home','OrdController@store');
 Route::get('/create','OrdController@create');
