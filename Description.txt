@@ -1,2 +1,3 @@
 This is company profile.
-it made using Laravel. IT
+it made using Laravel. 
+In this project from my friend online shop wanna be.
