@@ -1,0 +1,4 @@
+Rencana Tambahan buat Repo ini:
+1. bisa di gunakan atau launch di websitenya
+2. di tambah fitur dan bentuknya lebih rapi lagi
+3. bisa di upgrade lebih jauh lagi
